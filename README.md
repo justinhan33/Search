@@ -4,7 +4,7 @@ In this project, we will implement general search algorithms and apply them to d
 ## Instructions:
 1. Download the associated files
 2. After downloading and changing to the directory, run the following command `python3 pacman.py` to play the Pacman maze arcade game normally
-3. Otherwise, refer to the `commands.txt` file for a list of commands that allows the user to see the different search algorithms (DFS, BFS, UCS, A*) in action under various scenarios (different mazes)
+3. Otherwise, refer to the `commands.txt` file for a list of commands that allows the user to see what our Pacman agent does under different search algorithms (DFS, BFS, UCS, A*) for various scenarios (different mazes)
 
 ## Notes:
 * `GoWestAgent` is the simplest search agent which always goes West (a trivial reflex agent).
